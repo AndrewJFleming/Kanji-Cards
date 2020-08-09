@@ -1,0 +1,76 @@
+.card-container {
+    cursor: pointer;
+    height: 395px;
+    width: 404px;
+    perspective: 800px;
+    position: relative;
+    margin: 5vh auto;
+    padding: 0 5px;
+    transition: ease-in;
+  }
+  
+  .card {
+    height: 395px;
+    width: 395px;
+    position: absolute;
+    border: 2px solid #1a1105;
+    border-radius: 10px;
+    transform-style: preserve-3d;
+    transition: all 0.4s ease-in-out;
+    background-color: white;
+  }
+  
+  .card:hover {
+    transform: rotateY(180deg);
+    transition: all 0.4s ease-in-out;
+  }
+  
+  .card .front {
+    height: 395px;
+    width: 395px;
+    backface-visibility: hidden;
+    position: absolute;
+    overflow: hidden;
+    text-align: center;
+    background-color: rgba(255, 251, 251, 1);
+    border-radius: 10px;
+  }
+  
+  .card .back {
+    height: 395px;
+    width: 395px;
+    text-align: center;
+    transform: rotateY(180deg);
+    border-radius: 10px;
+  }
+
+  .image-container {
+    border: 2px solid #61594d;
+    margin: 40px 40px 0 40px;
+    height: 200px;
+    overflow: hidden;
+  }
+
+  img {
+    height: auto; 
+    width: 100%; 
+    object-fit: contain;
+  }
+
+  .english{
+    color: #333;
+    font-size: 2.3em;
+    padding-top: 10%;
+  }
+  
+  .kanji{
+    color: #333;
+    font-size: 6.3em;
+    padding-top: 20%;
+  }
+  
+  .romanji{
+      color: rgba(200, 10, 10, 1);
+      font-size: 2.3em;
+      padding-top: 10%;
+  }

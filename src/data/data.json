@@ -1,0 +1,94 @@
+{
+    "cards": [
+        {
+            "id": 1, 
+            "eng": "tree", 
+            "kanji": "木", 
+            "romanji": "ki"
+        },
+        {
+            "id": 2, 
+            "eng": "dog", 
+            "kanji": "犬", 
+            "romanji": "inu"
+        },
+        {
+            "id": 3, 
+            "eng": "man", 
+            "kanji": "男", 
+            "romanji": "otoko"
+        },
+        {
+            "id": 4, 
+            "eng": "woman", 
+            "kanji": "女", 
+            "romanji": "onna"
+        },
+        {
+            "id": 5, 
+            "eng": "flower", 
+            "kanji": "花", 
+            "romanji": "hana"
+        },
+        {
+            "id": 6, 
+            "eng": "forest", 
+            "kanji": "森", 
+            "romanji": "mori"
+        },
+        {
+            "id": 7, 
+            "eng": "glasses", 
+            "kanji": "眼鏡", 
+            "romanji": "megane"
+        },
+        {
+            "id": 8, 
+            "eng": "child", 
+            "kanji": "子供", 
+            "romanji": "kodomo"
+        },
+        {
+            "id": 9, 
+            "eng": "insect", 
+            "kanji": "虫", 
+            "romanji": "mushi"
+        },
+        {
+            "id": 10, 
+            "eng": "mountain", 
+            "kanji": "山", 
+            "romanji": "yama"
+        },
+        {
+            "id": 11, 
+            "eng": "bicycle", 
+            "kanji": "自転車", 
+            "romanji": "jitensha"
+        },
+        {
+            "id": 12, 
+            "eng": "bird", 
+            "kanji": "鳥", 
+            "romanji": "tori"
+        },
+        {
+            "id": 13, 
+            "eng": "ship", 
+            "kanji": "船", 
+            "romanji": "fune"
+        },
+        {
+            "id": 14, 
+            "eng": "exit", 
+            "kanji": "出口", 
+            "romanji": "deguchi"
+        },
+        {
+            "id": 15, 
+            "eng": "rice", 
+            "kanji": "ご飯", 
+            "romanji": "gohan"
+        }
+    ]
+}
