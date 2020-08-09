@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kanji-cards/static/css/main.c11a3829.chunk.css",
+    "main.js": "/kanji-cards/static/js/main.1d14843e.chunk.js",
+    "main.js.map": "/kanji-cards/static/js/main.1d14843e.chunk.js.map",
+    "runtime-main.js": "/kanji-cards/static/js/runtime-main.22681136.js",
+    "runtime-main.js.map": "/kanji-cards/static/js/runtime-main.22681136.js.map",
+    "static/js/2.599abc96.chunk.js": "/kanji-cards/static/js/2.599abc96.chunk.js",
+    "static/js/2.599abc96.chunk.js.map": "/kanji-cards/static/js/2.599abc96.chunk.js.map",
+    "index.html": "/kanji-cards/index.html",
+    "precache-manifest.7a729948d0edd08577edd6a385a785aa.js": "/kanji-cards/precache-manifest.7a729948d0edd08577edd6a385a785aa.js",
+    "service-worker.js": "/kanji-cards/service-worker.js",
+    "static/css/main.c11a3829.chunk.css.map": "/kanji-cards/static/css/main.c11a3829.chunk.css.map",
+    "static/js/2.599abc96.chunk.js.LICENSE.txt": "/kanji-cards/static/js/2.599abc96.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kanji-cards/static/media/joanna-kosinska-1_CMoFsPfso-unsplash.cdb1afa5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22681136.js",
+    "static/js/2.599abc96.chunk.js",
+    "static/css/main.c11a3829.chunk.css",
+    "static/js/main.1d14843e.chunk.js"
+  ]
+}
