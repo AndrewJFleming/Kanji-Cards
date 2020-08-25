@@ -3,6 +3,77 @@
     height: 395px;
     width: 404px;
     perspective: 800px;
+    margin: 5vh auto;
+  }
+  
+  .card {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    border: 2px solid #1a1105;
+    border-radius: 10px;
+    transform-style: preserve-3d;
+    transition: all 0.4s ease-in-out;
+  }
+  
+  .card__face {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    backface-visibility: hidden;
+  }
+
+  .card__face--front {
+    background: rgba(255, 251, 251, 1);
+    border-radius: 10px;
+  }
+  
+  .card__face--back {
+    background: rgba(255, 251, 251, 1);
+    transform: rotateY( 180deg );
+    border-radius: 10px;
+  }
+
+  .card.is-flipped {
+    transform: rotateY(180deg);
+  }
+
+  .image-container {
+    border: 2px solid #61594d;
+    margin: 40px 40px 0 40px;
+    height: 200px;
+    overflow: hidden;
+  }
+
+  img {
+    height: auto; 
+    width: 100%; 
+    object-fit: contain;
+  }
+
+  .english{
+    color: #333;
+    font-size: 2.3em;
+    padding-top: 10%;
+  }
+  
+  .kanji{
+    color: #333;
+    font-size: 6.3em;
+    padding-top: 20%;
+  }
+  
+  .romanji{
+      color: rgba(200, 10, 10, 1);
+      font-size: 2.3em;
+      padding-top: 10%;
+  }
+
+  /* .card-container {
+    cursor: pointer;
+    height: 395px;
+    width: 404px;
+    perspective: 800px;
     position: relative;
     margin: 5vh auto;
     padding: 0 5px;
@@ -73,4 +144,4 @@
       color: rgba(200, 10, 10, 1);
       font-size: 2.3em;
       padding-top: 10%;
-  }
+  } */

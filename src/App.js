@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import './App.css';
 import axios from 'axios';
-
 import data from './data/data.json';
+import './App.css';
+
 import Card from './Card/Card';
 import DrawButton from './DrawButton/DrawButton';
 
@@ -52,7 +52,7 @@ class App extends Component {
       currentCard: this.getRandomCard(currentCards)
     })
   }
-  
+
   render () {
     return (
       <div className="App">
