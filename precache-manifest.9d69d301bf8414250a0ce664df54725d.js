@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8912e9a01842c9c0104ba8de092f0f0",
+    "revision": "27a73fc2a3cac7fc5c0316cd8a5f7c00",
     "url": "/kanji-cards/index.html"
   },
   {
