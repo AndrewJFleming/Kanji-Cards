@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e102c8bcf01c9bb43b850d70a15e46b",
+    "revision": "f42d03dd11fb5c7956163ac25367c781",
     "url": "/kanji-cards/index.html"
   },
   {
-    "revision": "22a0fef5d6e4a24c380b",
-    "url": "/kanji-cards/static/css/main.8059b730.chunk.css"
+    "revision": "dc2dfd9f6a054e636b08",
+    "url": "/kanji-cards/static/css/main.a8d1c1b6.chunk.css"
   },
   {
     "revision": "cd3598e98f635b267c16",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kanji-cards/static/js/2.82bd6eac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22a0fef5d6e4a24c380b",
-    "url": "/kanji-cards/static/js/main.07b08e61.chunk.js"
+    "revision": "dc2dfd9f6a054e636b08",
+    "url": "/kanji-cards/static/js/main.7d1ccf0f.chunk.js"
   },
   {
     "revision": "8afec26b9d536ab21318",

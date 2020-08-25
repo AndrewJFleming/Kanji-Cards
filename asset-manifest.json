@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kanji-cards/static/css/main.8059b730.chunk.css",
-    "main.js": "/kanji-cards/static/js/main.07b08e61.chunk.js",
-    "main.js.map": "/kanji-cards/static/js/main.07b08e61.chunk.js.map",
+    "main.css": "/kanji-cards/static/css/main.a8d1c1b6.chunk.css",
+    "main.js": "/kanji-cards/static/js/main.7d1ccf0f.chunk.js",
+    "main.js.map": "/kanji-cards/static/js/main.7d1ccf0f.chunk.js.map",
     "runtime-main.js": "/kanji-cards/static/js/runtime-main.22681136.js",
     "runtime-main.js.map": "/kanji-cards/static/js/runtime-main.22681136.js.map",
     "static/js/2.82bd6eac.chunk.js": "/kanji-cards/static/js/2.82bd6eac.chunk.js",
     "static/js/2.82bd6eac.chunk.js.map": "/kanji-cards/static/js/2.82bd6eac.chunk.js.map",
     "index.html": "/kanji-cards/index.html",
-    "precache-manifest.ac863080c726355491cb91e920ffa682.js": "/kanji-cards/precache-manifest.ac863080c726355491cb91e920ffa682.js",
+    "precache-manifest.8eba2d727167ed0142783dbe668488a8.js": "/kanji-cards/precache-manifest.8eba2d727167ed0142783dbe668488a8.js",
     "service-worker.js": "/kanji-cards/service-worker.js",
-    "static/css/main.8059b730.chunk.css.map": "/kanji-cards/static/css/main.8059b730.chunk.css.map",
+    "static/css/main.a8d1c1b6.chunk.css.map": "/kanji-cards/static/css/main.a8d1c1b6.chunk.css.map",
     "static/js/2.82bd6eac.chunk.js.LICENSE.txt": "/kanji-cards/static/js/2.82bd6eac.chunk.js.LICENSE.txt",
     "static/media/index.css": "/kanji-cards/static/media/joanna-kosinska-1_CMoFsPfso-unsplash.cdb1afa5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.22681136.js",
     "static/js/2.82bd6eac.chunk.js",
-    "static/css/main.8059b730.chunk.css",
-    "static/js/main.07b08e61.chunk.js"
+    "static/css/main.a8d1c1b6.chunk.css",
+    "static/js/main.7d1ccf0f.chunk.js"
   ]
 }
