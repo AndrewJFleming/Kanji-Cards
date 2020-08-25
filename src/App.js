@@ -56,7 +56,15 @@ class App extends Component {
   render () {
     return (
       <div className="App">
-          <h1>Kanji Cards</h1>
+          <h1>Kanji Cards<br/> <span className="subtitle">for visual-learners</span></h1>
+          <ul className="instructions">
+            <li>
+              Click the card to flip it and view the Japanese translation.
+            </li>
+            <li>
+              Click the 'Draw Card' button to draw a new random card.
+            </li>
+          </ul>
         <div className="cardRow">
           <Card 
             eng={this.state.currentCard.eng} 

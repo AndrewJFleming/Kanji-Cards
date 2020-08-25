@@ -14,6 +14,16 @@
     transform: translate(-50%,0);
 }
 
+.subtitle {
+  font-weight: 400;
+  font-size: .7em;
+}
+
+.instructions {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .App .buttonRow {
   position: fixed;
   left: 50%;
