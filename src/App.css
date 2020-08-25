@@ -4,22 +4,24 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  color: white;
+  color: #FFF8F0;
 } 
 
 .App h1 {
-    position: fixed;
-    left: 50%;
-    top: 7vh;
-    transform: translate(-50%,0);
+  color: #FFF8F0;
+  position: fixed;
+  left: 50%;
+  top: 7vh;
+  transform: translate(-50%,0);
 }
 
 .subtitle {
-  font-weight: 400;
   font-size: .7em;
+  color: #DFE0DF;
 }
 
 .instructions {
+  font-weight: 300;
   margin-right: auto;
   margin-left: auto;
 }

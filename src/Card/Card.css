@@ -24,12 +24,12 @@
   }
 
   .card__face--front {
-    background: rgba(255, 251, 251, 1);
+    background: #FFF8F0;
     border-radius: 10px;
   }
   
   .card__face--back {
-    background: rgba(255, 251, 251, 1);
+    background: #FFF8F0;
     transform: rotateY( 180deg );
     border-radius: 10px;
   }

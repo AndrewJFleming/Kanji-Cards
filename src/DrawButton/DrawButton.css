@@ -6,19 +6,23 @@
     display: block;
     text-align:center;
     text-decoration:none;
-    color: #ecf0f1;
+    color: white;
+    text-shadow: 1px 1px 1px black;
     border-radius: 5px;
-    box-shadow: 2px 4px #0a1824;
-    background: #455c74;
+    background: #BA881D;
+    /* background: #455c74; */
+    box-shadow: 2px 4px #6e4f0c;
+    /* box-shadow: 2px 4px #0a1824; */
     margin: auto;
     margin-top: 20px;
   }
-  
+
   .btn:active{
     border: none;
     position: relative;
     top:3px;
+    background: #79560d;
+    /* background: #172736; */
     box-shadow: 2px 4px #000000;
-    background: #172736;
   }
   
